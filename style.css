@@ -13,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #a1ff8f;
+  background: #188c01;
 }
 
 .img-slider {
@@ -83,7 +83,7 @@ body {
 }
 
 .img-slider .navigation .btn.active {
-  background: #68eb4f;
+  background: #188c01;
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
 }
 
